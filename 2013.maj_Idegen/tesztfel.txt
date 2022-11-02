@@ -1,0 +1,10 @@
+1 895 Melyik evben kezdodott a Honfoglalas?
+2 1606 Mikor kotottek meg a zsitvatoroki beket?
+1 1867 Mikor volt a Kiegyezes?
+3 1937 Melyik evben vezettek be Magyarorszagon a 8 oras munkaidot?
+2 2 Hanyadik az orszagok terulet szerinti rangsoraban Kanada?
+2 24 Hany atloja van a szabalyos nyolcszognek?
+2 54 Mennyi egy 3 egyseg oldalu kocka terulete?
+3 8 Mi a Fibonacci-sorozat 6. eleme?
+2 120 Mennyi 5 faktorialisa?
+A feladatsorra osszesen 18 pont adhato. 
